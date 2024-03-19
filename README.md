@@ -8,3 +8,4 @@ This database management project is crafted for a survival game, focusing on the
 - **Multiplayer Tables**: Uses tables for multiplayer features - tracking players on a server, player usernames, inventories, and locations.
 
 The project includes SQL scripts for establishing the database schema, featuring tables for biomes, weather conditions, NPCs (Non-Playable Characters), and player statistics. Furthermore, it incorporates procedures and triggers to execute game-specific logic, enhancing the interactivity and functionality of the survival game.
+This project was developed for the Data Base Management Systems course.
