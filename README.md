@@ -1,1 +1,3 @@
 # Survival-Game-Database-Project---PLSQL
+
+This database management project is designed for a survival game, focusing on storing and managing crucial game data such as resources (water, food, materials, medical items), environmental settings (biomes, weather conditions, flora), and player character details (inventory, health, hunger, thirst, body temperature). It includes tables that would be useful in a multiplayer game setting - tracking players on a server, usernames, inventories, and locations. The project encompasses SQL scripts for setting up the database schema, including tables for biomes, weather, NPCs, and player statistics, along with procedures and triggers to handle game-specific logic.
